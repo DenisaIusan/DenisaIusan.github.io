@@ -1,4 +1,6 @@
 #Colores {color: yellow;}
 h1 {color: blue;}
 .Colores2 {color: green;}
-  
+b {
+  font-weight: bold;
+}
