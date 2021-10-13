@@ -3,7 +3,7 @@ h1 {color: blue;}
 .Colores2 {color: green;}
 b {
   font-weight: bold;
-  .b1 {color: blue;}
-  .b2 {color: yellow;}
-  .b3 {color: green;}
 }
+ .b1 b {color: blue;}
+ .b2 b {color: yellow;}
+ .b3 b {color: green;}
